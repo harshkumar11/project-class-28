@@ -1,2 +1,2 @@
-# project-class-28
-mango project
+# MatterJSBoilerPlate
+MatterJSBoilerPlate
